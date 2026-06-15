@@ -1,0 +1,7 @@
+2026-06-15 16:41:34,805 - INFO - Bronze Open-Meteo pull successful
+2026-06-15 16:41:34,807 - INFO - Bronze keys: ['latitude', 'longitude', 'generationtime_ms', 'utc_offset_seconds', 'timezone', 'timezone_abbreviation', 'elevation', 'hourly_units', 'hourly']
+2026-06-15 16:41:35,806 - INFO - bronze_weather_data uploaded to S3.
+2026-06-15 16:41:35,808 - INFO - Bronze and Silver row counts match.
+2026-06-15 16:41:35,823 - INFO - Silver row count: 168
+2026-06-15 16:41:35,824 - INFO - Silver columns: ['time', 'temperature_2m', 'precipitation', 'wind_speed_10m']
+2026-06-15 16:41:36,035 - INFO - silver_weather_data uploaded to S3.
