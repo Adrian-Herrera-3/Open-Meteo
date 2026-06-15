@@ -125,23 +125,6 @@ Validation:
 
 This project uses a `.env` file for secrets and configuration.
 
-Example structure:
-
-```env
-AWS_ACCESS_KEY_ID=your_access_key
-AWS_SECRET_ACCESS_KEY=your_secret_key
-AWS_REGION=your_region
-S3_BUCKET_NAME=your_bucket_name
-
-RDS_HOST=your_rds_endpoint
-RDS_PORT=5432
-RDS_NAME=your_database_name
-RDS_USER=your_username
-RDS_PASSWORD=your_password
-```
-
-Do not commit `.env` to GitHub.
-
 ## How to Run
 
 Install dependencies:
